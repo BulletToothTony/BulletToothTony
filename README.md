@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Henry
+
+## A recent graduate from the Northcoders Full Stack Development bootcamp
+
+## Check out my portfolio [Here](https://henrywl.netlify.app/) 💻
 
 <!--
 **BulletToothTony/BulletToothTony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
