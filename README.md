@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">A passionate full-stack developer from Manchester</h3>
 
-- 🔭 I’m currently working on a full-stack MERN social media application [BetterGram](https://github.com/BulletToothTony/BetterGram-Frontend)
+- 🔭 I’m currently working on a full-stack MERN social media application [BetterGram](https://github.com/Henry-WL/BetterGram-Frontend)
 
 - 🌱 I’m currently learning **Typescript**
 
